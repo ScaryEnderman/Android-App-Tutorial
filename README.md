@@ -3,7 +3,7 @@ Android-App-Tutorial
 
 #Android Simple App Tutorial
 
-This is a Tutorial for a simple Android App, which sets a Labels Text to a custom typed it Text, on Button click.
+This is a Tutorial for a simple Android App, which sets a Labels Text to a custom typed in Text, on Button click.
 
 - Create an app and open `/res/layout/main.xml`
 
@@ -61,7 +61,7 @@ we can define our Global Variables!
     TextView tv;
 ```
 
-Of course we need to tell out App, which view is defined in which variable.
+Of course we need to tell our App, which view is defined in which variable.
 
 - In `onCreate`, which is called once the App is started, add following declaration:
 
